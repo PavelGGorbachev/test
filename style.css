@@ -1,0 +1,62 @@
+body{
+    min-width: 320px;
+    font-size: 17px;
+    margin-top: 20px;
+    line-height: 0%;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.sec{
+  margin-left: 102px;
+}
+
+.callback{
+    text-align: right;
+}
+
+div{
+    line-height: 1;
+}
+
+button{
+    padding: 10px 100px 10px 100px;
+    margin: 10px;
+    font: normal 14px/1.7 'Roboto', sans-serif;
+    color: antiquewhite;
+    background-color: #4692ce;   
+    border: 0px;
+}
+input{
+    background-color: #4692ce;
+    padding: 10px 15px 10px 15px;
+    border: 0px;
+}
+
+li {
+    display: inline;
+} 
+.sear{
+    background-color: antiquewhite;
+    font-family: italic;
+}
+.searching{
+    padding: 7px 40px 7px 40px;
+}
+.search{
+    background-color: #f8f8f8;
+}
+
+#callme {
+    text-align: end;
+}
+
+#basketimg {
+    float: right;
+}
+
+#proj{
+    margin-top: 20px;
+}
