@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Суперверстка</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+
+
+
+   <div class="logo">
+        <img src="img/logo.png"></br>
+        <img class="sec" src="img/undlogof.png"></br>   
+        <img src="img/undlogo.png">
+   </div> 
+    
+
+
+    <div class="project">
+        <a href="#">Проектный отдел</a></br>
+        +7 (999) 789 91 82
+    </div>
+
+
+
+    <div class="diller">
+        <a href="#">Диллерский отдел</a></br>
+        +7 (499) 478 23 42</br>
+        +7 (423) 748 23 90
+    </div>
+
+    <div class="signin">
+       <form> <button src="img/sign in.png" alt="sign" style="vertical-align: middle">
+        Вход в личный кабинет
+        </button></form>
+    </div>
+
+    <div class="basket">
+       <input type="image" src="img/iconbasket.png">
+    </div>
+
+    <div class="baskettext">
+        в вашей корзине<br/>
+        <a href="#">9999 товаров</a><br/>
+        на 9 999 999р.
+        
+    </div>
+
+    <div class="callback">
+        <a href="#">Не дозвонились? Мы перезвоним!</a>
+    </div>
+
+    <div class="coop">
+        <a href="#">Заявка на сотрудничество</a>
+    </div>
+
+    <div class="mail">
+        <img src="img/mail.png">
+        <a href="#">info@artisan-project.ru</a>
+
+    </div>
+
+    <div class="outline">
+        <img src="img/-- sep.png">
+    </div>
+    
+    <div class="navbar">
+        <ul class="nav">
+            <li><a href="#">О компании</a></li>
+            <li><a href="#">Сотрудничество</a></li>
+            <li><a href="#">Плитка</a></li>
+            <li><a href="#">Сантехника</a></li>
+            <li><a href="#">Сопутствующие товары</a></li>
+            <li><a href="#">Мерчендайзинг</a></li>
+            <li><a href="#">Трнанспортные услуги</a></li>
+            <li><a href="#">Контакты</a></li>
+        </ul>
+    </div>
+
+    <div class="search">
+        <div class="line">
+            <input class="sear" type="text" size="100" name="sear">
+        </div>
+
+        <div class="bsearch">
+            <button class="searching"><img src="img/search.png" style="vertical-align: middle">
+                Найти
+            </button>
+        </div>
+
+        <div class="gsearch">   
+        <a href="#">
+            Расширенный поиск
+        </a>
+        </div>
+
+    </div>
+
+</div>
+
+
+<script src="js/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
